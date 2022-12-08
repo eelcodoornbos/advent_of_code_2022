@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 anytree = "*"
 jupyterlab = "*"
+seaborn = "*"
 
 [dev-packages]
 

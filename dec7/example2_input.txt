@@ -18,8 +18,8 @@ $ cd y
 $ ls
 1000 test1
 1000 test2
-dir yy
-$ cd yy
+dir a
+$ cd a
 $ ls
 1000 test3
 $ cd ..
