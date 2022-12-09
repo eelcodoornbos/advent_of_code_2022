@@ -10,6 +10,7 @@ pandas = "*"
 anytree = "*"
 jupyterlab = "*"
 seaborn = "*"
+pygmt = "*"
 
 [dev-packages]
 
