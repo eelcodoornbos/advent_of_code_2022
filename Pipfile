@@ -11,6 +11,7 @@ anytree = "*"
 jupyterlab = "*"
 seaborn = "*"
 pygmt = "*"
+numpngw = "*"
 
 [dev-packages]
 
