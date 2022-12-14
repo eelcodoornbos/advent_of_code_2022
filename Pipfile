@@ -12,6 +12,7 @@ jupyterlab = "*"
 seaborn = "*"
 pygmt = "*"
 numpngw = "*"
+scikit-image = "*"
 
 [dev-packages]
 
